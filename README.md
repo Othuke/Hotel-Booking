@@ -6,9 +6,9 @@ The new technologies involving online booking channels have dramatically changed
 
 The cancellation of bookings impact a hotel on various fronts:
 
-Loss of resources (revenue) when the hotel cannot resell the room.
-Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
-Lowering prices last minute, so the hotel can resell a room, resulting in reducing the profit margin.
-Human resources to make arrangements for the guests.
+* Loss of resources (revenue) when the hotel cannot resell the room.
+* Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms.
+* Lowering prices last minute, so the hotel can resell a room, resulting in reducing the profit margin.
+* Human resources to make arrangements for the guests.
 
-The objective of this project is to build a Machine Learning based solution that can help in predicting which booking is likely to be canceled.
+The objective of this project is to use a Machine Learning based solution to build a predictive model that can predict which booking is going to be canceled in advance, and help in formulating profitable policies for cancellations and refunds.
